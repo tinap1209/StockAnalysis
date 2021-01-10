@@ -1,12 +1,12 @@
-###Written Analysis of Results
-###Module 2 Green Stock Analysis 
-##Answer to Question 1
+### Written Analysis of Results
+### Module 2 Green Stock Analysis 
+## Answer to Question 1
 
 The purpose of this Analysis is to help Steve analyze stock options to its performance for two years 2017 & 2018.
 Based on the results, I can infer that two types of stock is doing well, namely ENPH and RUN , the rest of teh stock seems to offer a negative return. 
 One difference I notied in the excecution times of the original script and refactored script is that, the in refactored script, the time taken id definatelt longerf for both years. 
 
-##Summary
+## Summary
 
 There are more advantages than disadvantages in Refactoring code. It makes a software system easier to understand and cheaper to modify without changing its observable 
 behavior by changing its internal structure.
@@ -25,7 +25,7 @@ However, you definitely do not perform refactoring tasks, if it exceeds your bud
 -Delivery schedule is very tight.
 -Management doesn't care about maintainability and extension of code base.
 
-##Question 2:
+## Question 2:
 
 Advatages of refactoring the original script
 It was easier and well written
