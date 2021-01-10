@@ -1,6 +1,6 @@
-### Written Analysis of Results
+###Written Analysis of Results
 ###Module 2 Green Stock Analysis 
-## Answer to Question 1
+##Answer to Question 1
 
 The purpose of this Analysis is to help Steve analyze stock options to its performance for two years 2017 & 2018.
 Based on the results, I can infer that two types of stock is doing well, namely ENPH and RUN , the rest of teh stock seems to offer a negative return. 
@@ -31,3 +31,5 @@ Advatages of refactoring the original script
 It was easier and well written
 
 Disadvantage: I had to constantly refer back to teh original code I have written. 
+
+Source: Stackoverflow and Quora
